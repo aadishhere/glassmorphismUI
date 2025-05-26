@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  GlassMusicPlayerUI
+//  glassmorphismUI
 //
 //  Created by Aadish Jain on 19/05/25.
 //
